@@ -1,15 +1,9 @@
 title: ChaoliangTang
-logo: /assets/img/logo.jpg
+logo: /assets/img/me.jpg
+emails: cltang22@m.fudan.edu.cn
 description: I am a PhD student in Fudan University, supervised by Professor Hehui Wu.
 favicon: true
 color-scheme: auto
-
-contact:
-  emails:
-    - address: chaoliang.tang@ens-lyon.fr
-      icon: /assets/img/logo.jpg
-    - address: cltang22@m.fudan.edu.cn
-      icon: /assets/img/logo.jpg
       
 
 # plugins:
