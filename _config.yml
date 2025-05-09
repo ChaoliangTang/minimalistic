@@ -1,15 +1,16 @@
 title: ChaoliangTang
 logo: /assets/img/logo.jpg
-email: chaoliang.tang@ens-lyon.fr
-email: cltang22@m.fudan.edu.cn
+emails:
+  - chaoliang.tang@ens-lyon.fr
+  - cltang22@m.fudan.edu.cn
 description: I am a PhD student in Fudan University, supervised by Professor Hehui Wu.
 favicon: true
 color-scheme: auto
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
+# plugins:
+#   - jekyll-sitemap
+#   - jekyll-seo-tag
+#   - jemoji
 
 # platforms:
 #   - name: GitHub
@@ -19,11 +20,11 @@ plugins:
 #     icon: <i class="fa-brands fa-linkedin"></i>
 #     link: https://www.linkedin.com/in/vaibhavvikas
 
-navigation:
-  - name: Readme
-    link: ./index.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
+# navigation:
+#   - name: Readme
+#     link: ./index.html
+#     sublist:
+#       - name: Image
+#         link: ./index.html#small-image
+#   - name: Another Page
+#     link: ./another-page.html
