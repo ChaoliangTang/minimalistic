@@ -3,7 +3,7 @@ layout: default
 ---
 # Hi!
 
-I am PhD student in [Shanghai Center for Mathematics Science](https://scms.fudan.edu.cn/) at Fudan university, Shanghai, China. My supervisor is Hehui Wu. My bachelor degree was also completed at Fudan uniiversity. Currently I am visiting [MC2 team](https://www.ens-lyon.fr/LIP/MC2/) in [LIP](https://www.ens-lyon.fr/LIP) at [ENS Lyon], Lyon, France.
+I am PhD student in [Shanghai Center for Mathematics Science](https://scms.fudan.edu.cn/) at Fudan university, Shanghai, China. My supervisor is Hehui Wu. My bachelor degree was also completed at Fudan uniiversity. Currently I am visiting [MC2 team](https://www.ens-lyon.fr/LIP/MC2/) in [LIP](https://www.ens-lyon.fr/LIP) at ENS Lyon, Lyon, France.
 
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -21,14 +21,81 @@ Extremal Combinotorics and Graph Theory
 
 Algorithms
 
-## Research Works
+# Research Works
 
-2.
+4. [TBC]
+
+3. [1-2 Conjectures for Graphs with Low Degeneracy Properties](https://arxiv.org/abs/2504.21452)
+
+Julien Bensmail, Beatriz Martins, Chaoliang Tang
+
+2. [On 1-11-representability and multi-1-11-representability of graphs](https://arxiv.org/abs/2501.13871)
+
+Mohammed Alshammari, Sergey Kitaev, Chaoliang Tang, Tianyi Tao, Junchi Zhang
+
+[Utilitas Mathematica, Volume 122, P29-40](https://combinatorialpress.com/um-articles/vol-122/on-1-11-representability-and-multi-1-11-representability-of-graphs/)
 
 1. [On the Turán number of the linear 3-graph C13](https://arxiv.org/abs/2109.10520)
+
 Chaoliang Tang, Hehui Wu, Shengtong Zhang, Zeyu Zheng
+
 [The Electronic Journal of Combinatorics (2022), P3–46.](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v29i3p46)
 
+# (Unfinished) Research Projects
+
+4. TBC
+
+3. Chromatic number of Light tournament
+
+Lucas Isenmann,  Clara Marcille, Alantha Newman, Chaoliang Tang
+
+2. Random Turan number of Grids
+
+Yaobin Chen, Jiaxi Nie, Chaoliang Tang
+
+1. Linear Turan Number of small paths
+
+Chaoliang Tang, Hehui Wu, Junchi Zhang
+
+We have answered the linear Turan number of 5-path and this will be presented on [Eurocomb25](https://renyi.hu/en/events/conference/eurocomb25).
+
+# Teaching
+
+I was working as a TA at Fudan university in the following courses:
+
+MATH3305 Graph Theory
+
+MATH4312 Combinatorial Optimization
+
+MATH1304 Functional Analysis
+
+# Conference and Seminars that I attended or organised
+
+JGA2024, Dijon, France
+
+Summit 280, Budapest, Hungary
+
+Eurocomb24, Prague, Czech Republic
+
+Fudan Graph Theory Conference in 2024 Spring (Co-organizer), Shanghai, China
+
+Fudan Student Seminar on Graph Theory 2023-2024 (Co-organizer), Shanghai, China
+
+The 10th National Conference on Combinatorics and Graph Theory, Harbin, China
+
+# Talks
+
+On the Turán number of the linear 3-graph C13 at Fudan Student Seminar and 10th NCCGT
+
+# Hobbies
+
+Cycling: I used to be a member of Fudan University Cycling Team.
+
+Hiking: Take me into mountains plz. I will be in Mont Blanc in the summer of 2025.
+
+Boardgames: I can play the whole night.
+
+Anything esle that is dangerous.
 
 
 
