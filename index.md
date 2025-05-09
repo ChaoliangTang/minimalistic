@@ -3,7 +3,7 @@ layout: default
 ---
 # Hi!
 
-I am PhD student in Shanghai Center for Mathematics Science at Fudan university, Shanghai, China. My supervisor is Hehui Wu. My bachelor degree was also completed at Fudan uniiversity. Currently I am visiting [MC2 team](https://www.ens-lyon.fr/LIP/MC2/) in [LIP](https://www.ens-lyon.fr/LIP) at [ENS Lyon], Lyon, France.
+I am PhD student in [Shanghai Center for Mathematics Science](https://scms.fudan.edu.cn/) at Fudan university, Shanghai, China. My supervisor is Hehui Wu. My bachelor degree was also completed at Fudan uniiversity. Currently I am visiting [MC2 team](https://www.ens-lyon.fr/LIP/MC2/) in [LIP](https://www.ens-lyon.fr/LIP) at [ENS Lyon], Lyon, France.
 
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
