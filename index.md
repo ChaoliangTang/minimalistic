@@ -41,24 +41,6 @@ Chaoliang Tang, Hehui Wu, Shengtong Zhang, Zeyu Zheng
 
 [The Electronic Journal of Combinatorics (2022), P3–46.](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v29i3p46)
 
-# (Unfinished) Research Projects
-
-4. TBC
-
-3. Chromatic number of Light tournament
-
-Lucas Isenmann,  Clara Marcille, Alantha Newman, Chaoliang Tang
-
-2. Random Turan number of Grids
-
-Yaobin Chen, Jiaxi Nie, Chaoliang Tang
-
-1. Linear Turan Number of small paths
-
-Chaoliang Tang, Hehui Wu, Junchi Zhang
-
-We have answered the linear Turan number of 5-path and this will be presented on [Eurocomb25](https://renyi.hu/en/events/conference/eurocomb25).
-
 # Teaching
 
 I was working as a TA at Fudan university in the following courses:
@@ -86,6 +68,24 @@ The 10th National Conference on Combinatorics and Graph Theory, Harbin, China
 # Talks
 
 On the Turán number of the linear 3-graph C13 at Fudan Student Seminar and 10th NCCGT
+
+# (Proceeding) Research Projects
+
+4. TBC
+
+3. Chromatic number of Light tournament
+
+Lucas Isenmann,  Clara Marcille, Alantha Newman, Chaoliang Tang
+
+2. Random Turan number of Grids
+
+Yaobin Chen, Jiaxi Nie, Chaoliang Tang
+
+1. Linear Turan Number of small paths
+
+Chaoliang Tang, Hehui Wu, Junchi Zhang
+
+We have answered the linear Turan number of 5-path and this will be presented on [Eurocomb25](https://renyi.hu/en/events/conference/eurocomb25).
 
 # Hobbies
 
