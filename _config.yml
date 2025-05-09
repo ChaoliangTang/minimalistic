@@ -4,7 +4,6 @@ description: I am a PhD student in Fudan University, supervised by Professor Heh
 favicon: true
 color-scheme: auto
 
-# 邮箱配置（关键修改）
 contact:
   emails:
     - address: chaoliang.tang@ens-lyon.fr
