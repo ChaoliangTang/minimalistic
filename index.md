@@ -33,12 +33,9 @@ Algorithms
 
 # Teaching
 
-I was working as a TA at Fudan university in the following courses:
-
-MATH3305 Graph Theory
-
-MATH4312 Combinatorial Optimization
-
+I was working as a TA at Fudan university in the following courses:  
+MATH3305 Graph Theory  
+MATH4312 Combinatorial Optimization  
 MATH1304 Functional Analysis
 
 # Conference and Seminars that I attended or organised
@@ -61,20 +58,16 @@ On the Turán number of the linear 3-graph C13 at Fudan Student Seminar and 10th
 
 # (Proceeding) Research Projects
 
-4. TBC
+TBC
 
-3. Chromatic number of Light tournament
+1. **Chromatic number of Light tournament**  
+   Lucas Isenmann, Clara Marcille, Alantha Newman, Chaoliang Tang
 
-Lucas Isenmann,  Clara Marcille, Alantha Newman, Chaoliang Tang
+2. **Random Turan number of Grids**  
+   Yaobin Chen, Jiaxi Nie, Chaoliang Tang
 
-2. Random Turan number of Grids
-
-Yaobin Chen, Jiaxi Nie, Chaoliang Tang
-
-1. Linear Turan Number of small paths
-
-Chaoliang Tang, Hehui Wu, Junchi Zhang
-
+3. **Linear Turan Number of small paths**  
+   Chaoliang Tang, Hehui Wu, Junchi Zhang  
 We have answered the linear Turan number of 5-path and this will be presented on [Eurocomb25](https://renyi.hu/en/events/conference/eurocomb25).
 
 # Hobbies
