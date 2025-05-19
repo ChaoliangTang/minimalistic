@@ -10,10 +10,10 @@ sidebar:
       Email: [{{ site.contact.email }}](mailto:{{ site.contact.email }})  
       
 
-# plugins:
-#   - jekyll-sitemap
-#   - jekyll-seo-tag
-#   - jemoji
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
 
 # platforms:
 #   - name: GitHub
