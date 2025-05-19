@@ -7,13 +7,6 @@ I am PhD student in [Shanghai Center for Mathematics Science](https://scms.fudan
 
 Currently I am enjoying my visit at [MC2 team](https://www.ens-lyon.fr/LIP/MC2/) in [LIP](https://www.ens-lyon.fr/LIP) at **ENS Lyon**, Lyon, France, supported by Chinese Scholarship Council. My supervisor in ENS is [**Stéphan Thomassé**](https://perso.ens-lyon.fr/stephan.thomasse/).
 
-<!-- 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-[Link to another page](./another-page.html).
-There should be whitespace between paragraphs.
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
--->
-
 
 # Research Interests
 
@@ -64,7 +57,7 @@ MATH1304 **Functional Analysis**
 # Proceeding Researches
 
 **Acyclic Orientation with Parity Constraints**  
-   Matthieu Petiteau, Chaoliang Tang, Stephan Thomasse
+   Matthieu Petiteau, Chaoliang Tang, Stephan Thomasse  
 We are understanding the case of cubic graph.
 
 **Chromatic number of Light tournament**  
@@ -85,7 +78,7 @@ We have answered the linear Turan number of 5-path and this will be presented on
 
 **Hiking**: Take me into mountains plz. I will be in Mont Blanc in the summer of 2025.
 
-**Boardgames**: I can play the whole night.
+**Boardgames**: I can play the whole night. Personal Favorite is *Twilight Struggle*.
 
 Anything else that is **dangerous**.
 
