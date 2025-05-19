@@ -23,10 +23,16 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Research Works
 
-[**A Polynomial-Time Approximation Algorithm for Complete Interval Minors**](https://arxiv.org/abs/2505.05997) Romain Bourneuf, Julien Cocquet, Chaoliang Tang, Stéphan Thomassé  
-[**1-2 Conjectures for Graphs with Low Degeneracy Properties**](https://arxiv.org/abs/2504.21452) Julien Bensmail, Beatriz Martins, Chaoliang Tang  
-[**On 1-11-representability and multi-1-11-representability of graphs**](https://arxiv.org/abs/2501.13871) Mohammed Alshammari, Sergey Kitaev, Chaoliang Tang, Tianyi Tao, Junchi Zhang [Utilitas Mathematica, Volume 122, P29-40](https://combinatorialpress.com/um-articles/vol-122/on-1-11-representability-and-multi-1-11-representability-of-graphs/)  
-[**On the Turán number of the linear 3-graph C13**](https://arxiv.org/abs/2109.10520) Chaoliang Tang, Hehui Wu, Shengtong Zhang, Zeyu Zheng [The Electronic Journal of Combinatorics (2022), P3–46.](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v29i3p46)  
+[**A Polynomial-Time Approximation Algorithm for Complete Interval Minors**](https://arxiv.org/abs/2505.05997)  
+Romain Bourneuf, Julien Cocquet, Chaoliang Tang, Stéphan Thomassé  
+[**1-2 Conjectures for Graphs with Low Degeneracy Properties**](https://arxiv.org/abs/2504.21452)  
+Julien Bensmail, Beatriz Martins, Chaoliang Tang  
+[**On 1-11-representability and multi-1-11-representability of graphs**](https://arxiv.org/abs/2501.13871)  
+Mohammed Alshammari, Sergey Kitaev, Chaoliang Tang, Tianyi Tao, Junchi Zhang  
+[Utilitas Mathematica, Volume 122, P29-40](https://combinatorialpress.com/um-articles/vol-122/on-1-11-representability-and-multi-1-11-representability-of-graphs/)  
+[**On the Turán number of the linear 3-graph C13**](https://arxiv.org/abs/2109.10520)  
+Chaoliang Tang, Hehui Wu, Shengtong Zhang, Zeyu Zheng  
+[The Electronic Journal of Combinatorics (2022), P3–46.](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v29i3p46)  
 
 # Teaching
 
