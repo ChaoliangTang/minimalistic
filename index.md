@@ -35,7 +35,7 @@ Mohammed Alshammari, Sergey Kitaev, Chaoliang Tang, Tianyi Tao, Junchi Zhang
 
 [**On the Turán number of the linear 3-graph C13**](https://arxiv.org/abs/2109.10520)  
 Chaoliang Tang, Hehui Wu, Shengtong Zhang, Zeyu Zheng  
-[The Electronic Journal of Combinatorics (2022), P3–46.](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v29i3p46)  
+[The Electronic Journal of Combinatorics (2022), P3–46](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v29i3p46)  
 
 # Teachings
 
