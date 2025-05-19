@@ -47,14 +47,14 @@ MATH1304 **Functional Analysis**
 
 # Conference and Seminars
 
-*Godasse*, Sete, France  
-*JGA2024*, Dijon, France  
-*Summit280*, Budapest, Hungary  
-*Eurocomb24*, Prague, Czech Republic  
-*The 8th Xi’an International Workshop on Graph Theory and Combinatorics*, Xi'an, China  
-*Fudan Graph Theory Conference in 2024 Spring*, Co-organizer, Shanghai, China  
-*Fudan Student Seminar on Graph Theory 2023-2024*, Co-organizer, Shanghai, China  
-*The 10th National Conference on Combinatorics and Graph Theory*, Harbin, China
+**Godasse**, Sete, France  
+**JGA2024**, Dijon, France  
+**Summit280**, Budapest, Hungary  
+**Eurocomb24**, Prague, Czech Republic  
+**The 8th Xi’an International Workshop on Graph Theory and Combinatorics**, Xi'an, China  
+**Fudan Graph Theory Conference in 2024 Spring**, Co-organizer, Shanghai, China  
+**Fudan Student Seminar on Graph Theory 2023-2024**, Co-organizer, Shanghai, China  
+**The 10th National Conference on Combinatorics and Graph Theory**, Harbin, China
 
 # Talks
 
