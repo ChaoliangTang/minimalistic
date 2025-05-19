@@ -25,18 +25,18 @@ navigation:
     link: ./index.html
     sublist:
       - name: Research Interests
-        link: ./index.html# Research Interests
+        link: ./index.html#research-interests
       - name: Research Woorks
-        link: ./index.html# Research Works
+        link: ./index.html#research-works
       - name: Teachings
-        link: ./index.html# Teachings
+        link: ./index.html#teachings
       - name: Conference and Seminars
-        link: ./index.html# Conference and Seminars
+        link: ./index.html#conference-and-seminars
       - name: Talks
-        link: ./index.html# Talks
+        link: ./index.html#Talks
       - name: Proceeding Researches
-        link: ./index.html# Proceeding Researches
+        link: ./index.html#Proceeding Researches
       - name: Hobbies
-        link: ./index.html# Hobbies
+        link: ./index.html#Hobbies
 #   - name: Another Page
 #     link: ./another-page.html
