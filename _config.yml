@@ -4,7 +4,10 @@ emails: cltang22@m.fudan.edu.cn
 description: I am a PhD student in Fudan University, supervised by Professor Hehui Wu.
 favicon: true
 color-scheme: auto
-footer_content: "Hi." 
+sidebar:
+  - title: "Contact"
+    text: |
+      Email: [{{ site.contact.email }}](mailto:{{ site.contact.email }})  
       
 
 # plugins:
