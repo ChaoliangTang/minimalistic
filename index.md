@@ -63,6 +63,10 @@ MATH1304 **Functional Analysis**
 
 # Proceeding Researches
 
+**Acyclic Orientation with Parity Constraints**  
+   Matthieu Petiteau, Chaoliang Tang, Stephan Thomasse
+We are understanding the case of cubic graph.
+
 **Chromatic number of Light tournament**  
    Lucas Isenmann, Clara Marcille, Alantha Newman, Chaoliang Tang  
 We have obtained slight improvedment of chromatic number of light tournament.
