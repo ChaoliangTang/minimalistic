@@ -33,10 +33,10 @@ navigation:
       - name: Conference and Seminars
         link: ./index.html#conference-and-seminars
       - name: Talks
-        link: ./index.html#Talks
+        link: ./index.html#talks
       - name: Proceeding Researches
-        link: ./index.html#Proceeding Researches
+        link: ./index.html#proceeding-researches
       - name: Hobbies
-        link: ./index.html#Hobbies
+        link: ./index.html#hobbies
 #   - name: Another Page
 #     link: ./another-page.html
