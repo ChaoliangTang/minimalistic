@@ -17,9 +17,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Research Interests
 
-**Structral Graph Theory**  
-**Extremal Combinotorics and Graph Theory**  
-**Algorithms**  
+Structral Graph Theory  
+Extremal Combinotorics and Graph Theory  
+Algorithms  
 
 # Research Works
 
