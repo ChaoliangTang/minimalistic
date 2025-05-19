@@ -15,13 +15,13 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 
-# platforms:
-#   - name: GitHub
-#     icon: <i class="fa-brands fa-github"></i>
-#     link: https://github.com/vaibhavvikas
-#   - name: LinkedIn
-#     icon: <i class="fa-brands fa-linkedin"></i>
-#     link: https://www.linkedin.com/in/vaibhavvikas
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/ChaoliangTang
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: www.linkedin.com/in/chaoliangtang
 
 # navigation:
 #   - name: Readme
