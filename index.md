@@ -40,20 +40,21 @@ Chaoliang Tang, Hehui Wu, Shengtong Zhang, Zeyu Zheng
 # Teaching
 
 I was working as a TA at Fudan university in the following courses:  
-1. MATH3305 **Graph Theory**  
-2. MATH4312 **Combinatorial Optimization**  
-3. MATH1304 **Functional Analysis**
+
+MATH3305 **Graph Theory**  
+MATH4312 **Combinatorial Optimization**  
+MATH1304 **Functional Analysis**
 
 # Conference and Seminars that I attended or organised
 
-Godasse, Sete, France
-JGA2024, Dijon, France  
-Summit280, Budapest, Hungary  
-Eurocomb24, Prague, Czech Republic  
-The 8th Xi’an International Workshop on Graph Theory and Combinatorics, Xi'an, China  
-Fudan Graph Theory Conference in 2024 Spring (Co-organizer), Shanghai, China  
-Fudan Student Seminar on Graph Theory 2023-2024 (Co-organizer), Shanghai, China  
-The 10th National Conference on Combinatorics and Graph Theory, Harbin, China
+*Godasse*, Sete, France  
+*JGA2024*, Dijon, France  
+*Summit280*, Budapest, Hungary  
+*Eurocomb24*, Prague, Czech Republic  
+*The 8th Xi’an International Workshop on Graph Theory and Combinatorics*, Xi'an, China  
+*Fudan Graph Theory Conference in 2024 Spring*, Co-organizer, Shanghai, China  
+*Fudan Student Seminar on Graph Theory 2023-2024*, Co-organizer, Shanghai, China  
+*The 10th National Conference on Combinatorics and Graph Theory*, Harbin, China
 
 # Talks
 
@@ -63,11 +64,11 @@ The 10th National Conference on Combinatorics and Graph Theory, Harbin, China
 # (Proceeding) Research Projects
 
 **Chromatic number of Light tournament**  
-   Lucas Isenmann, Clara Marcille, Alantha Newman, Chaoliang Tang
+   Lucas Isenmann, Clara Marcille, Alantha Newman, Chaoliang Tang  
 We have obtained slight improvedment of chromatic number of light tournament.
 
 **Random Turan number of Grids**  
-   Yaobin Chen, Jiaxi Nie, Chaoliang Tang
+   Yaobin Chen, Jiaxi Nie, Chaoliang Tang  
 We have answered the random turan number of certain grids.
 
 **Linear Turan Number of small paths**  
@@ -76,13 +77,13 @@ We have answered the linear Turan number of 5-path and this will be presented on
 
 # Hobbies
 
-Cycling: I used to be a member of Fudan University Cycling Team.
+**Cycling**: I used to be a member of Fudan University Cycling Team.
 
-Hiking: Take me into mountains plz. I will be in Mont Blanc in the summer of 2025.
+**Hiking**: Take me into mountains plz. I will be in Mont Blanc in the summer of 2025.
 
-Boardgames: I can play the whole night.
+**Boardgames**: I can play the whole night.
 
-Anything esle that is dangerous.
+Anything esle that is **dangerous**.
 
 
 
