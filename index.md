@@ -17,56 +17,51 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Research Interest
 
-Structral Graph Theory
-
-Extremal Combinotorics and Graph Theory
-
-Algorithms
+**Structral Graph Theory**  
+**Extremal Combinotorics and Graph Theory**  
+**Algorithms**  
 
 # Research Works
 
-[1-2 Conjectures for Graphs with Low Degeneracy Properties](https://arxiv.org/abs/2504.21452) Julien Bensmail, Beatriz Martins, Chaoliang Tang
-
-[On 1-11-representability and multi-1-11-representability of graphs](https://arxiv.org/abs/2501.13871) Mohammed Alshammari, Sergey Kitaev, Chaoliang Tang, Tianyi Tao, Junchi Zhang [Utilitas Mathematica, Volume 122, P29-40](https://combinatorialpress.com/um-articles/vol-122/on-1-11-representability-and-multi-1-11-representability-of-graphs/)
-
-[On the Turán number of the linear 3-graph C13](https://arxiv.org/abs/2109.10520) Chaoliang Tang, Hehui Wu, Shengtong Zhang, Zeyu Zheng [The Electronic Journal of Combinatorics (2022), P3–46.](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v29i3p46)
+4. [**A Polynomial-Time Approximation Algorithm for Complete Interval Minors**](https://arxiv.org/abs/2505.05997) Romain Bourneuf, Julien Cocquet, Chaoliang Tang, Stéphan Thomassé  
+3. [**1-2 Conjectures for Graphs with Low Degeneracy Properties**](https://arxiv.org/abs/2504.21452) Julien Bensmail, Beatriz Martins, Chaoliang Tang  
+2. [**On 1-11-representability and multi-1-11-representability of graphs**](https://arxiv.org/abs/2501.13871) Mohammed Alshammari, Sergey Kitaev, Chaoliang Tang, Tianyi Tao, Junchi Zhang [Utilitas Mathematica, Volume 122, P29-40](https://combinatorialpress.com/um-articles/vol-122/on-1-11-representability-and-multi-1-11-representability-of-graphs/)  
+1. [**On the Turán number of the linear 3-graph C13**](https://arxiv.org/abs/2109.10520) Chaoliang Tang, Hehui Wu, Shengtong Zhang, Zeyu Zheng [The Electronic Journal of Combinatorics (2022), P3–46.](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v29i3p46)  
 
 # Teaching
 
 I was working as a TA at Fudan university in the following courses:  
-MATH3305 Graph Theory  
-MATH4312 Combinatorial Optimization  
-MATH1304 Functional Analysis
+1. MATH3305 **Graph Theory**  
+2. MATH4312 **Combinatorial Optimization**  
+3. MATH1304 **Functional Analysis**
 
 # Conference and Seminars that I attended or organised
 
-JGA2024, Dijon, France
-
-Summit280, Budapest, Hungary
-
-Eurocomb24, Prague, Czech Republic
-
-Fudan Graph Theory Conference in 2024 Spring (Co-organizer), Shanghai, China
-
-Fudan Student Seminar on Graph Theory 2023-2024 (Co-organizer), Shanghai, China
-
+Godasse, Sete, France
+JGA2024, Dijon, France  
+Summit280, Budapest, Hungary  
+Eurocomb24, Prague, Czech Republic  
+The 8th Xi’an International Workshop on Graph Theory and Combinatorics, Xi'an, China  
+Fudan Graph Theory Conference in 2024 Spring (Co-organizer), Shanghai, China  
+Fudan Student Seminar on Graph Theory 2023-2024 (Co-organizer), Shanghai, China  
 The 10th National Conference on Combinatorics and Graph Theory, Harbin, China
 
 # Talks
 
-On the Turán number of the linear 3-graph C13 at Fudan Student Seminar and 10th NCCGT
+**A Polynomial-Time Approximation Algorithm for Complete Interval Minors**, at Godasse
+**On the Turán number of the linear 3-graph C13**, at Fudan Student Seminar, 10th NCCGT and Berlin Free University Seminar
 
 # (Proceeding) Research Projects
 
-TBC
-
-1. **Chromatic number of Light tournament**  
+3. **Chromatic number of Light tournament**  
    Lucas Isenmann, Clara Marcille, Alantha Newman, Chaoliang Tang
+We have obtained slight improvedment of chromatic number of light tournament.
 
 2. **Random Turan number of Grids**  
    Yaobin Chen, Jiaxi Nie, Chaoliang Tang
+We have answered the random turan number of certain grids.
 
-3. **Linear Turan Number of small paths**  
+1. **Linear Turan Number of small paths**  
    Chaoliang Tang, Hehui Wu, Junchi Zhang  
 We have answered the linear Turan number of 5-path and this will be presented on [Eurocomb25](https://renyi.hu/en/events/conference/eurocomb25).
 
