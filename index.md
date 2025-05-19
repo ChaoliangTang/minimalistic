@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 -->
 
 
-# Research Interest
+# Research Interests
 
 **Structral Graph Theory**  
 **Extremal Combinotorics and Graph Theory**  
@@ -37,7 +37,7 @@ Mohammed Alshammari, Sergey Kitaev, Chaoliang Tang, Tianyi Tao, Junchi Zhang
 Chaoliang Tang, Hehui Wu, Shengtong Zhang, Zeyu Zheng  
 [The Electronic Journal of Combinatorics (2022), P3–46.](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v29i3p46)  
 
-# Teaching
+# Teachings
 
 I was working as a TA at Fudan university in the following courses:  
 
@@ -45,7 +45,7 @@ MATH3305 **Graph Theory**
 MATH4312 **Combinatorial Optimization**  
 MATH1304 **Functional Analysis**
 
-# Conference and Seminars that I attended or organised
+# Conference and Seminars
 
 *Godasse*, Sete, France  
 *JGA2024*, Dijon, France  
