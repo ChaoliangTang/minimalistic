@@ -3,9 +3,9 @@ layout: default
 ---
 # Hi!
 
-I am PhD student in [Shanghai Center for Mathematics Science](https://scms.fudan.edu.cn/) at Fudan university, Shanghai, China. My supervisor is Hehui Wu. My bachelor degree was also completed at Fudan uniiversity. 
+I am PhD student in [Shanghai Center for Mathematics Science](https://scms.fudan.edu.cn/) at **Fudan university**, Shanghai, China. My supervisor is **Hehui Wu**. My bachelor degree was also completed at Fudan uniiversity. 
 
-Currently I am enjoying my visit at [MC2 team](https://www.ens-lyon.fr/LIP/MC2/) in [LIP](https://www.ens-lyon.fr/LIP) at ENS Lyon, Lyon, France, supported by Chinese Scholarship COuncil. My supervisor in ENS is [Stéphan Thomassé](https://perso.ens-lyon.fr/stephan.thomasse/).
+Currently I am enjoying my visit at [MC2 team](https://www.ens-lyon.fr/LIP/MC2/) in [LIP](https://www.ens-lyon.fr/LIP) at **ENS Lyon**, Lyon, France, supported by Chinese Scholarship COuncil. My supervisor in ENS is [**Stéphan Thomassé**](https://perso.ens-lyon.fr/stephan.thomasse/).
 
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
