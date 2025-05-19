@@ -61,7 +61,7 @@ MATH1304 **Functional Analysis**
 **A Polynomial-Time Approximation Algorithm for Complete Interval Minors**, at Godasse  
 **On the Turán number of the linear 3-graph C13**, at Fudan Student Seminar, 10th NCCGT and Berlin Free University Seminar
 
-# (Proceeding) Research Projects
+# Proceeding Researches
 
 **Chromatic number of Light tournament**  
    Lucas Isenmann, Clara Marcille, Alantha Newman, Chaoliang Tang  
