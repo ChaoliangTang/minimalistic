@@ -18,7 +18,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Research Interests
 
 Structral Graph Theory  
-Extremal Combinotorics and Graph Theory  
+Extremal Combinatorics and Graph Theory  
 Algorithms  
 
 # Research Works
@@ -87,7 +87,7 @@ We have answered the linear Turan number of 5-path and this will be presented on
 
 **Boardgames**: I can play the whole night.
 
-Anything esle that is **dangerous**.
+Anything else that is **dangerous**.
 
 
 
