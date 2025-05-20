@@ -3,7 +3,7 @@ layout: default
 ---
 # Hi!
 
-I am PhD student in [Shanghai Center for Mathematics Science](https://scms.fudan.edu.cn/) at **Fudan university**, Shanghai, China. My supervisor is **Hehui Wu**. My bachelor degree was also completed at Fudan uniiversity. 
+I am PhD student in [Shanghai Center for Mathematics Science](https://scms.fudan.edu.cn/) at **Fudan university**, Shanghai, China. My supervisor is **Hehui Wu**. My bachelor degree was also completed at Fudan university. 
 
 Currently I am enjoying my visit at [MC2 team](https://www.ens-lyon.fr/LIP/MC2/) in [LIP](https://www.ens-lyon.fr/LIP) at **ENS Lyon**, Lyon, France, supported by Chinese Scholarship Council. My supervisor in ENS is [**Stéphan Thomassé**](https://perso.ens-lyon.fr/stephan.thomasse/).
 
@@ -51,8 +51,8 @@ MATH1304 **Functional Analysis**
 
 # Talks
 
-**A Polynomial-Time Approximation Algorithm for Complete Interval Minors**, at Godasse  
-**On the Turán number of the linear 3-graph C13**, at the 10th NCCGT, Fudan Student Seminar and Berlin Free University Seminar
+**A Polynomial-Time Approximation Algorithm for Complete Interval Minors**, at Godasse(2025 May)  
+**On the Turán number of the linear 3-graph C13**, at the 10th NCCGT, Fudan Student Seminar and Berlin Free University Seminar(2023 August)
 
 # Proceeding Researches
 
