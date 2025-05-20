@@ -1,7 +1,7 @@
 title: ChaoliangTang
 logo: /assets/img/me.jpg
 email: cltang22@m.fudan.edu.cn
-description: I am a PhD student in Fudan University, supervised by Professor Hehui Wu.
+description: I am a PhD student at Fudan University, supervised by Professor Hehui Wu.
 favicon: true
 color-scheme: auto
 
@@ -32,8 +32,8 @@ navigation:
         link: ./index.html#teachings
       - name: Conference and Seminars
         link: ./index.html#conference-and-seminars
-      - name: Talks
-        link: ./index.html#talks
+      - name: Talks and Posters
+        link: ./index.html#talks-and-posters
       - name: Proceeding Researches
         link: ./index.html#proceeding-researches
       - name: Hobbies
