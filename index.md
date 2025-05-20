@@ -40,19 +40,20 @@ MATH1304 **Functional Analysis**
 
 # Conference and Seminars
 
-**Godasse**, 2025, Sete, France  
-**JGA2024**, 2024, Dijon, France  
-**Summit280**, 2024, Budapest, Hungary  
-**The 8th Xi’an International Workshop on Graph Theory and Combinatorics**, 2024, Xi'an, China  
+**Godasse**, 2025 May, Sete, France  
+**JGA2024**, 2024 November, Dijon, France  
+**Summit280**, 2024 August, Budapest, Hungary  
+**The 8th Xi’an International Workshop on Graph Theory and Combinatorics**, 2024 July, Xi'an, China  
 **Fudan Graph Theory Conference**, 2024 Spring, Co-organizer, Shanghai, China  
 **Fudan Student Seminar on Graph Theory**, 2023-2024, Co-organizer, Shanghai, China  
-**Eurocomb23**, 2023, Prague, Czech Republic  
-**The 10th National Conference on Combinatorics and Graph Theory**, 2022, Harbin, China
+**Eurocomb23**, 2023 August, Prague, Czech Republic  
+**The 1st International Congress of Basic Science**, 2023 July, Beijing, China  
+**The 10th National Conference on Combinatorics and Graph Theory**, 2022 August, Harbin, China
 
-# Talks
+# Talks and Poster
 
-**A Polynomial-Time Approximation Algorithm for Complete Interval Minors**, at Godasse(2025 May)  
-**On the Turán number of the linear 3-graph C13**, at the 10th NCCGT, Fudan Student Seminar and Berlin Free University Seminar(2023 August)
+**A Polynomial-Time Approximation Algorithm for Complete Interval Minors**, talk at Godasse  
+**On the Turán number of the linear 3-graph C13**, talks at the 10th NCCGT, Fudan Student Seminar and Berlin Free University Seminar(2023 August), poster at the 1st ICBS    
 
 # Proceeding Researches
 
