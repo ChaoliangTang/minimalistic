@@ -50,7 +50,7 @@ MATH1304 **Functional Analysis**
 **The 1st International Congress of Basic Science**, 2023 July, Beijing, China  
 **The 10th National Conference on Combinatorics and Graph Theory**, 2022 August, Harbin, China
 
-# Talks and Poster
+# Talks and Posters
 
 **A Polynomial-Time Approximation Algorithm for Complete Interval Minors**, talk at Godasse  
 **On the Turán number of the linear 3-graph C13**, talks at the 10th NCCGT, Fudan Student Seminar and Berlin Free University Seminar(2023 August), poster at the 1st ICBS    
